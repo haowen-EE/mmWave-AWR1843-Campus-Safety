@@ -194,7 +194,7 @@ If you use this project in your research, please cite:
 **Author**: Haowen Jiang
 
 - GitHub: [@haowen-EE](https://github.com/haowen-EE)
-- Email: your.email@example.com
+- Email: ashen7274@gmail.com
 - Project: [github.com/haowen-EE/Radar-project](https://github.com/haowen-EE/Radar-project)
 
 ---
